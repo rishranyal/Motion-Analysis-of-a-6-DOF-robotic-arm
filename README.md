@@ -1,4 +1,7 @@
 # Motion-Analysis-of-a-6-DOF-robotic-arm
+![images](https://github.com/user-attachments/assets/d2b8d5e8-5147-49c0-adff-cbe8682dc6b4)
+
+
 This study explores the motion analysis and forward kinematics of the Braccio robotic arm, a
  6-degree-of-freedom (DOF) system, using advanced simulation and computational tools. The
  project began with the physical assembly of the robotic arm, focusing on the structural and
