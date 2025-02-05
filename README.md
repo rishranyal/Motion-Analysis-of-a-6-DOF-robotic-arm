@@ -20,6 +20,8 @@ This study explores the motion analysis and forward kinematics of the Braccio ro
  deriving mathematical models to determine the position and orientation of the end effector based
  on joint angles. The kinematic equations were validated through simulation results, ensuring
  accuracy in predicting the arm's spatial movements.
+
+ 
 ![images](https://github.com/user-attachments/assets/eedce6e7-cfc5-42ea-98d5-537af743ca34)
 
  The integration of MSC Adams for dynamic simulation and MATLAB for kinematic
