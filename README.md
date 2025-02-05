@@ -10,11 +10,12 @@ In MSC Adams, the individual components of the Braccio arm were assembled into a
 
 Further, the forward kinematics of the robotic arm was analyzed using MATLAB, where mathematical models were derived to determine the position and orientation of the end effector based on joint angles. These kinematic equations were validated through simulation results, ensuring accuracy in predicting the arm's spatial movements. The integration of MSC Adams for dynamic simulation and MATLAB for kinematic computation provided a comprehensive framework for analyzing the Braccio robotic arm.
 
-Instructions for Using the Files:
-Download the parasolid file and open it in MSC Adams View.
-Apply your own constraints and motion to the joints of the arm.
-If you want a fully simulated model, download the Simulated ADAMS file and run the preconfigured simulation.
-For co-simulation, open the ADAMS model in MSC Adams.
-Open the Control Plant model in MATLAB or load the co-simulated file.
-To perform inverse kinematics, open the Rigid Body file and the Inverse Kinematics file in MATLAB.
-Run the files to obtain the desired results.
+# Instructions for Using the Files:
+
+1. Download the parasolid file and open it in MSC Adams View.
+2. Apply your own constraints and motion to the joints of the arm.
+3. If you want a fully simulated model, download the Simulated ADAMS file and run the preconfigured simulation.
+4. For co-simulation, open the ADAMS model in MSC Adams.
+5. Open the Control Plant model in MATLAB or load the co-simulated file.
+6. To perform inverse kinematics, open the Rigid Body file and the Inverse Kinematics file in MATLAB.
+7. Run the files to obtain the desired results.
